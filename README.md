@@ -7,7 +7,9 @@
 ### OpenVaccine: COVID-19 mRNA Vaccine Degradation Prediction
 
 Link : https://www.kaggle.com/c/stanford-covid-vaccine/overview/additional-resources
+Link : https://colab.research.google.com/drive/1r942rutUWiHlFbtA0Erloj6m0V0vG8_8#scrollTo=NJdge3dCn7zW
 
+# To use this program, put the data in the same file as the notebook "OpenVaccine_Kaggle.ipynb".
 
 ### Objectif : As part of a bioinformatics course project on AI. Determine which mRNAs are eligible for a vaccine with the lowest gradation rate.
 
@@ -41,7 +43,6 @@ $ conda activate open_vaccin
 $ conda install numpy pandas matplotlib scipy keras tensorflow jupyter
 ```
 
-To use this program, put the data in the same file as the notebook "OpenVaccine_Kaggle.ipynb".
 
 
 
