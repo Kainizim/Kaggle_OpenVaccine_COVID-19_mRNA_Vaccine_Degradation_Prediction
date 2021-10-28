@@ -7,6 +7,7 @@
 ### OpenVaccine: COVID-19 mRNA Vaccine Degradation Prediction
 
 Link : https://www.kaggle.com/c/stanford-covid-vaccine/overview/additional-resources
+
 Link : https://colab.research.google.com/drive/1r942rutUWiHlFbtA0Erloj6m0V0vG8_8#scrollTo=NJdge3dCn7zW
 
 # To use this program, put the data in the same file as the notebook "OpenVaccine_Kaggle.ipynb".
